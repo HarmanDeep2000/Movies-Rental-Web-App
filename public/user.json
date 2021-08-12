@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Hermione Granger",
+    "age": 16,
+    "email": "Hermione@gmail.com"
+  },
+
+  {
+    "id": 2,
+    "name": "Harry Potter",
+    "age": 16,
+    "email": "HarryPotter@gmail.com"
+  },
+
+  {
+    "id": 3,
+    "name": "Ron Weasley",
+    "age": 16,
+    "email": "RonWeasley@gmail.com"
+  },
+
+  {
+    "id": 4,
+    "name": "Luna Lovegood",
+    "age": 16,
+    "email": "LunaLovegood@gmail.com"
+  },
+
+  {
+    "id": 5,
+    "name": "Neville Longbottom",
+    "age": 16,
+    "email": "NevilleLongbottom@gmail.com"
+  }
+]
